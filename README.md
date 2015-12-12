@@ -1,6 +1,7 @@
 # SpreadsheetsToCreateTableSQL
 スプレッドシートのツールバーの自動処理ボタンを押下。
 create ddl作成。
+ツールのスクリプトエディタよりコードを編集して使用。
 
 # spreadsheets to SQL that create table
 templateテーブルがサンプル。
